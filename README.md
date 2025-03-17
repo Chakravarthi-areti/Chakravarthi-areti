@@ -1,4 +1,4 @@
-<h1 align="center">Greetings Every One Chakravarthi Areti</h1>
+<h1 align="center">Greetings Every One I am  Chakravarthi Areti</h1>
 <h3 align="center">Data Analyst | MYSQL, Power BI, Python , Advanced Excel , Machine Learning| Ex-Intern at KultureHire | I Help Businesses Drive Growth & Mitigate Risk Through Data-Driven Insights</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chakravarthi-areti&label=Profile%20views&color=0e75b6&style=flat" alt="chakravarthi-areti" /> </p>
