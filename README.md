@@ -41,16 +41,16 @@ I specialize in transforming complex data into actionable insights through data 
       </a>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200?text=Music+Store+Analysis" alt="Music Store Analysis" width="300">
+      <img src="https://medium.com/@chakravarthiareti09/merchandise-sales-analysis-using-mysql-a87986faebb9" alt="Merchandise Sales Analysis" width="300">
       <br>
-      <b>Music Store Analysis</b>  
+      <b>Merchandise Sales Analysis</b>  
       <i>Analyzed sales data to identify top-selling genres, improving marketing strategy.</i>  
       <br>
       <a href="https://github.com/Chakravarthi-areti/Music-Store-Analysis">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub">
       </a>
       <a href="https://your-target-website.com/music-store-analysis">
-        <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=web" alt="Project Details">
+        <img src="https://medium.com/@chakravarthiareti09/merchandise-sales-analysis-using-mysql-a87986faebb9" alt="Project Details">
       </a>
     </td>
   </tr>
