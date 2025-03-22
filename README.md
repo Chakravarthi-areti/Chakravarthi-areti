@@ -30,42 +30,79 @@
 ---
 
 ## 🚀 Projects
+
 ### 🔹 **MySQL Projects**
-<p align="center">
-  <a href="https://github.com/Chakravarthi-areti/Pizza-Sales-Analysis">
-    <img src="https://img.shields.io/badge/Pizza%20Sales%20Analysis-%230077B5.svg?style=for-the-badge&logo=github" alt="Pizza Sales Analysis">
-  </a>
-  <a href="https://github.com/Chakravarthi-areti/Music-Store-Analysis">
-    <img src="https://img.shields.io/badge/Music%20Store%20Analysis-%230077B5.svg?style=for-the-badge&logo=github" alt="Music Store Analysis">
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/300x200?text=Pizza+Sales+Analysis" alt="Pizza Sales Analysis" width="300">
+      <br>
+      <a href="https://github.com/Chakravarthi-areti/Pizza-Sales-Analysis">
+        <img src="https://img.shields.io/badge/Visit%20Project-%230077B5.svg?style=for-the-badge" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/300x200?text=Music+Store+Analysis" alt="Music Store Analysis" width="300">
+      <br>
+      <a href="https://github.com/Chakravarthi-areti/Music-Store-Analysis">
+        <img src="https://img.shields.io/badge/Visit%20Project-%230077B5.svg?style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🟠 **Power BI Projects**
-<p align="center">
-  <a href="https://github.com/Chakravarthi-areti/Car-Insurance-Analytics">
-    <img src="https://img.shields.io/badge/Car%20Insurance%20Analytics-%230077B5.svg?style=for-the-badge&logo=github" alt="Car Insurance Analytics">
-  </a>
-  <a href="https://github.com/Chakravarthi-areti/Hospital-Patient-Analysis">
-    <img src="https://img.shields.io/badge/Hospital%20Patient%20Analysis-%230077B5.svg?style=for-the-badge&logo=github" alt="Hospital Patient Analysis">
-  </a>
-  <a href="https://github.com/Chakravarthi-areti/Ecommerce-Sales-Analysis">
-    <img src="https://img.shields.io/badge/Ecommerce%20Sales%20Analysis-%230077B5.svg?style=for-the-badge&logo=github" alt="Ecommerce Sales Analysis">
-  </a>
-  <a href="https://github.com/Chakravarthi-areti/Credit-Card-Analytics">
-    <img src="https://img.shields.io/badge/Credit%20Card%20Analytics-%230077B5.svg?style=for-the-badge&logo=github" alt="Credit Card Analytics">
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/300x200?text=Car+Insurance+Analytics" alt="Car Insurance Analytics" width="300">
+      <br>
+      <a href="https://github.com/Chakravarthi-areti/Car-Insurance-Analytics">
+        <img src="https://img.shields.io/badge/Visit%20Project-%230077B5.svg?style=for-the-badge" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/300x200?text=Hospital+Patient+Analysis" alt="Hospital Patient Analysis" width="300">
+      <br>
+      <a href="https://github.com/Chakravarthi-areti/Hospital-Patient-Analysis">
+        <img src="https://img.shields.io/badge/Visit%20Project-%230077B5.svg?style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/300x200?text=Ecommerce+Sales+Analysis" alt="Ecommerce Sales Analysis" width="300">
+      <br>
+      <a href="https://github.com/Chakravarthi-areti/Ecommerce-Sales-Analysis">
+        <img src="https://img.shields.io/badge/Visit%20Project-%230077B5.svg?style=for-the-badge" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/300x200?text=Credit+Card+Analytics" alt="Credit Card Analytics" width="300">
+      <br>
+      <a href="https://github.com/Chakravarthi-areti/Credit-Card-Analytics">
+        <img src="https://img.shields.io/badge/Visit%20Project-%230077B5.svg?style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🟢 **Advanced Excel Projects**
-<p align="center">
-  <a href="https://github.com/Chakravarthi-areti/Coffee-Shop-Sales-Analysis">
-    <img src="https://img.shields.io/badge/Coffee%20Shop%20Sales%20Analysis-%230077B5.svg?style=for-the-badge&logo=github" alt="Coffee Shop Sales Analysis">
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/300x200?text=Coffee+Shop+Sales+Analysis" alt="Coffee Shop Sales Analysis" width="300">
+      <br>
+      <a href="https://github.com/Chakravarthi-areti/Coffee-Shop-Sales-Analysis">
+        <img src="https://img.shields.io/badge/Visit%20Project-%230077B5.svg?style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
