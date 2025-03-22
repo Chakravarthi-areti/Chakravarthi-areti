@@ -1,29 +1,33 @@
-# 👋 Hi, I'm Chakravarthi Areti  
-### Aspiring Data Analyst | Power BI | MySQL | Python | Excel | Statistics  
-
-I specialize in transforming complex data into actionable insights through data analysis, visualization, and storytelling. With a strong focus on problem-solving, I aim to help businesses make data-driven decisions that improve performance and profitability.
+Here's your improved LinkedIn profile content with enhanced icons for better visual appeal:  
 
 ---
 
-## 🚀 Skills That Drive Impact  
-- **Data Analysis:** Uncovering trends, patterns, and actionable insights  
-- **Power BI & Visualizations:** Building interactive dashboards for enhanced decision-making  
-- **MySQL & Data Queries:** Writing optimized queries to extract meaningful insights  
-- **Excel Mastery:** Utilizing advanced formulas, pivot tables, and charts for analysis  
-- **Python Programming:** Using NumPy, Pandas, and other libraries for data manipulation  
+# 👋 **Hi, I'm Chakravarthi Areti**  
+### 📊 **Aspiring Data Analyst | Power BI | MySQL | Python | Excel | Statistics**  
+
+I specialize in transforming complex data into actionable insights through data analysis, visualization, and storytelling. With a strong focus on problem-solving, I aim to help businesses make data-driven decisions that improve performance and profitability.  
 
 ---
 
-## 🎯 Certifications
-✅ **Data Science Certification** - OdinSchool  
-✅ **Excel Certification** - Udemy  
+## 🧰 **Skills That Drive Impact**  
+🟠 **Data Analysis:** Uncovering trends, patterns, and actionable insights  
+🟡 **Power BI & Visualizations:** Building interactive dashboards for enhanced decision-making  
+🟢 **MySQL & Data Queries:** Writing optimized queries to extract meaningful insights  
+🔵 **Excel Mastery:** Utilizing advanced formulas, pivot tables, and charts for analysis  
+🟣 **Python Programming:** Using NumPy, Pandas, and other libraries for data manipulation  
 
 ---
 
-## 📊 Featured Projects  
+## 🏅 **Certifications**  
+🎯 **Data Science Certification** - OdinSchool  
+📈 **Excel Certification** - Udemy  
+
+---
+
+## 📂 **Featured Projects**  
 > Each project showcases my ability to extract insights, build impactful visualizations, and deliver data-driven solutions.  
 
-### 🔹 **MySQL Projects**
+### 🔹 **MySQL Projects**  
 <table>
   <tr>
     <td align="center">
@@ -70,11 +74,11 @@ I specialize in transforming complex data into actionable insights through data 
       </a>
     </td>
   </tr>
-</table>
+</table>  
 
 ---
 
-### 🟠 **Power BI Projects**
+### 🟠 **Power BI Projects**  
 <table>
   <tr>
     <td align="center">
@@ -104,41 +108,19 @@ I specialize in transforming complex data into actionable insights through data 
       </a>
     </td>
   </tr>
-</table>
+</table>  
 
 ---
 
-### 🟢 **Advanced Excel Projects**
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/Chakravarthi-areti/Chakravarthi-areti/blob/main/Altiq_Mart_Promotion_img.png?raw=true" width="300">
-      <br>
-      <b>ALTIQ MART Promotion Analysis</b>  
-<br> </br>
-      <i>Analyzed sales data to identify Top Stores, popular products, and customer trends.</i>  
-      <br>
-      <a href="https://github.com/Chakravarthi-areti/Coffee-Shop-Sales-Analysis">
-        <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub">
-      </a>
-      <a href="https://medium.com/@chakravarthiareti09/altiq-mart-promotion-analysis-36f47163c1a9">
-        <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=web" alt="Project Details">
-      </a>
-    </td>
-  </tr>
-</table>
+## 💡 **Why Hire Me?**  
+✔️ **Strong technical skills** combined with business acumen  
+📊 **Proven ability** to build insightful dashboards and reports  
+🎯 **Dedicated to continuous learning** and growth  
+🗨️ **Effective communicator** with a results-driven approach  
 
 ---
 
-## 💡 Why Hire Me?
-✔️ Strong technical skills combined with business acumen  
-✔️ Proven ability to build insightful dashboards and reports  
-✔️ Dedicated to continuous learning and growth  
-✔️ Effective communicator with a results-driven approach  
-
----
-
-## 📫 Let's Connect
+## 📫 **Let's Connect**  
 📧 **Email:** [chakravarthiareti09@gmail.com](mailto:chakravarthiareti09@gmail.com)  
 🔗 **LinkedIn:** [Chakravarthi Areti](https://www.linkedin.com/in/chakravarthiareti)  
 💻 **GitHub:** [Chakravarthi-Areti](https://github.com/Chakravarthi-areti)  
