@@ -36,12 +36,7 @@ With a focus on data-driven decisions, I strive to help businesses improve perfo
 - [**Data Science Certification – OdinSchool**](https://www.odinschool.com/)  
 - [**Excel Certification – Udemy**](https://www.udemy.com/)  
 
----
-
-# 📫 Let's Connect
-📧 **Email:** [chakravarthiareti09@gmail.com](mailto:chakravarthiareti09@gmail.com)  
-🔗 **LinkedIn:** [**Chakravarthi Areti**](https://www.linkedin.com/in/chakravarthiareti)  
-💻 **GitHub:** [**Chakravarthi-Areti**](https://github.com/Chakravarthi-areti)  
+  
 
 
 ---
