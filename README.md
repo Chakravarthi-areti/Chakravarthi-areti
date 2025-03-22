@@ -77,7 +77,7 @@ I specialize in transforming complex data into actionable insights through data 
 </table>  
 
 ---
-<!
+<!--
 ### 🟠 **Power BI Projects**  
 <table>
   <tr>
@@ -109,7 +109,9 @@ I specialize in transforming complex data into actionable insights through data 
     </td>
   </tr>
 </table>  
->
+
+-->
+
 
 ### 🟢 **Advanced Excel Projects**
 <table>
