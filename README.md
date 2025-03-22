@@ -33,7 +33,7 @@ Data Analyst skilled in **MySQL**, **Excel**, **Power BI**, and **Python**, with
 
 # 📜 Certifications  
 - 🎯 [**Data Science Certification – OdinSchool**](https://drive.google.com/file/d/1AbbRFzawAR-y2_FCgif3TDvvO5klhR6j/view?usp=sharing)  
-- 📈 [**Excel Certification – Udemy**](https://drive.google.com/file/d/1AbbRFzawAR-y2_FCgif3TDvvO5klhR6j/view?usp=sharing)  
+- 📈 [**Excel Certification – Udemy**](https://drive.google.com/file/d/1Cxi_WBBh0nn82ibnsEQb28p0AAjH_6oe/view?usp=sharing)  
 
 ---
 
