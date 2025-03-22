@@ -115,6 +115,7 @@ I specialize in transforming complex data into actionable insights through data 
       <img src="https://github.com/Chakravarthi-areti/Chakravarthi-areti/blob/main/Altiq_Mart_Promotion_img.png?raw=true" width="300">
       <br>
       <b>ALTIQ MART Promotion Analysis</b>  
+<br</br>
       <i>Analyzed sales data to identify Top Stores, popular products, and customer trends.</i>  
       <br>
       <a href="https://github.com/Chakravarthi-areti/Coffee-Shop-Sales-Analysis">
