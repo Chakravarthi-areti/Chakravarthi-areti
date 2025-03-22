@@ -36,8 +36,8 @@ I specialize in transforming complex data into actionable insights through data 
       <a href="https://github.com/Chakravarthi-areti/Pizza-Sales-Analysis">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub">
       </a>
-      <a href="https://your-target-website.com/pizza-sales-analysis">
-        <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=web" alt="Project Details">
+      <a href="https://medium.com/@chakravarthiareti09/beverage-sales-analysis-using-mysql-and-excel-63bb429f2ac3">
+        <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=we" alt="Project Details">
       </a>
     </td>
     <td align="center">
