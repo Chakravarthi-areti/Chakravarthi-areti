@@ -1,50 +1,89 @@
-<h1 align="center">Hello Everyone! I'm Chakravarthi Areti</h1>
-<h3 align="center">Data Analyst | MySQL, Power BI, Python, Advanced Excel | Data-Driven Insights for Business Growth</h3>
+<h1 align="center">🚀 Chakravarthi Areti | Data Analyst</h1>
+<p align="center">📊 MySQL | 📈 Power BI | 🐍 Python | 📋 Advanced Excel | 🔍 Data Insights</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chakravarthi-areti&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+---
 
-## 🚀 About Me
+## 🧑‍💻 About Me  
+I am a passionate **Data Analyst** dedicated to transforming raw data into meaningful insights. With expertise in **Power BI**, **MySQL**, and **Python**, I specialize in analyzing complex datasets to identify trends, improve performance, and support data-driven decisions.
 
-- 🔭 Currently working on **Strategic Merger Insights for the OTT Domain**
-- 🌱 Enhancing my skills in **Data Analysis**
-- 💬 Ask me about **Power BI, SQL, Python, and Data Analysis**
-- 📫 Reach me at **chakravarthiareti09@gmail.com**
-- 📄 [View My Resume](https://drive.google.com/file/d/1TYLdVsDKp940d7GIcxsQ8syy245QOVbb/view?usp=sharing)
+🌟 **Key Strengths:** Data Analysis | Statistical Insights | Visualization | Problem Solving  
+📩 **Reach Me At:** **[chakravarthiareti09@gmail.com](mailto:chakravarthiareti09@gmail.com)**  
 
-## 📚 Education
+---
 
+## 🎓 Education  
 - **Bachelor of Technology in Mechanical Engineering**  
-  VNR VJIET, Hyderabad (2023 Graduate)
+  *VNR Vignana Jyothi Institute of Engineering and Technology, Hyderabad*  
+  Graduated in **2023**
 
-## 🧩 Projects
+---
 
-- **Car Insurance Analytics Using Power BI**
-- **Hospital Patient Analysis Using Power BI**
-- **Clothing Sales Analysis Across Ecommerce**
-- **Pizza Sales Analysis**
-- **Coffee Shop Sales Analysis**
+## 💼 Experience  
+- **Data Analyst Intern** - *KultureHire*  
+  - Conducted data analysis to identify business growth opportunities.  
+  - Developed actionable insights to mitigate risks and improve decision-making.
 
-## 🛠️ Skills and Tools
+---
 
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-</p>
+## 📂 Projects  
 
-## 📊 GitHub Stats
+<table>
+<tr>
+  <td width="50%">
+    <h3 align="center">📊 Car Insurance Analytics</h3>
+    <p align="center">
+      <img src="https://via.placeholder.com/300" alt="Car Insurance Analytics" width="100%"/>
+    </p>
+    <p align="center">Analyzed car insurance data to track claims, policies, and customer demographics.</p>
+  </td>
+  <td width="50%">
+    <h3 align="center">🏥 Hospital Patient Analysis</h3>
+    <p align="center">
+      <img src="https://via.placeholder.com/300" alt="Hospital Patient Analysis" width="100%"/>
+    </p>
+    <p align="center">Developed detailed reports showcasing patient trends and hospital performance.</p>
+  </td>
+</tr>
 
+<tr>
+  <td width="50%">
+    <h3 align="center">🛒 Ecommerce Sales Analysis</h3>
+    <p align="center">
+      <img src="https://via.placeholder.com/300" alt="Ecommerce Sales Analysis" width="100%"/>
+    </p>
+    <p align="center">Uncovered trends in customer behavior, purchase patterns, and revenue growth.</p>
+  </td>
+  <td width="50%">
+    <h3 align="center">🍕 Pizza Sales Analysis</h3>
+    <p align="center">
+      <img src="https://via.placeholder.com/300" alt="Pizza Sales Analysis" width="100%"/>
+    </p>
+    <p align="center">Performed SQL queries to track pizza sales, top-performing products, and customer preferences.</p>
+  </td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Skills & Tools  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chakravarthi-areti&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" />
 </p>
 
-## 🔗 Connect with Me
+---
 
-<p align="left">
-<a href="https://www.linkedin.com/in/chakravarthi-areti-522390227/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-</a>
+## 🔗 Connect With Me  
+<p align="center">
+  <a href="https://github.com/Chakravarthi-areti" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/chakravarthi-areti-522390227/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
+
+---
+
