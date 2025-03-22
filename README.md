@@ -27,9 +27,10 @@ I specialize in transforming complex data into actionable insights through data 
 <table>
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200?text=Pizza+Sales+Analysis" alt="Pizza Sales Analysis" width="300">
+      <img src="https://github.com/Chakravarthi-areti/Chakravarthi-areti/blob/main/Screenshot%202025-03-22%20194136.png?raw=true" alt="Beverage Sales Analysis" width="300">
       <br>
-      <b>Pizza Sales Analysis</b>  
+      <b>Beverage Sales Analysis</b>  
+      <br></br>
       <i>Forecasted demand trends by analyzing 20,000 pizza orders, improving inventory planning.</i>  
       <br>
       <a href="https://github.com/Chakravarthi-areti/Pizza-Sales-Analysis">
