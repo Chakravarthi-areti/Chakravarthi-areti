@@ -77,7 +77,7 @@ I specialize in transforming complex data into actionable insights through data 
 </table>  
 
 ---
-
+<!
 ### 🟠 **Power BI Projects**  
 <table>
   <tr>
@@ -109,6 +109,28 @@ I specialize in transforming complex data into actionable insights through data 
     </td>
   </tr>
 </table>  
+>
+
+### 🟢 **Advanced Excel Projects**
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Chakravarthi-areti/Chakravarthi-areti/blob/main/Altiq_Mart_Promotion_img.png?raw=true" width="300">
+      <br>
+      <b>ALTIQ MART Promotion Analysis</b>  
+<br> </br>
+      <i>Analyzed sales data to identify Top Stores, popular products, and customer trends.</i>  
+      <br>
+      <a href="https://github.com/Chakravarthi-areti/Coffee-Shop-Sales-Analysis">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub">
+      </a>
+      <a href="https://medium.com/@chakravarthiareti09/altiq-mart-promotion-analysis-36f47163c1a9">
+        <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=web" alt="Project Details">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
