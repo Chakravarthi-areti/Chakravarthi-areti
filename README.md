@@ -5,7 +5,7 @@ Here's your improved LinkedIn profile content with enhanced icons for better vis
 # 👋 **Greetings EveryOne, I am  Chakravarthi Areti**  
 ### 📊 **Aspiring Data Analyst | Power BI | MySQL | Python | Excel | Statistics**  
 
-I specialize in transforming complex data into actionable insights through data analysis, visualization, and storytelling. With a strong focus on problem-solving, I aim to help businesses make data-driven decisions that improve performance and profitability.  
+Data Analyst skilled in MySQL, Excel, Power BI, and Python, with extensive experience analyzing large datasets and delivering actionable insights to drive business strategy. Proficient in KPI metrics, dashboard reporting, and collaborating with stakeholders to solve business problems and identify actionable steps through data solutions and strategic insights.  
 
 ---
 
