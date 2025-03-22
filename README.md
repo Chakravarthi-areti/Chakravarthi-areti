@@ -31,7 +31,7 @@ I specialize in transforming complex data into actionable insights through data 
       <br>
       <b>Beverage Sales Analysis</b>  
       <br></br>
-      <i>Forecasted demand trends by analyzing 20,000 pizza orders, improving inventory planning.</i>  
+      <i></i>  
       <br>
       <a href="https://github.com/Chakravarthi-areti/Pizza-Sales-Analysis">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub">
