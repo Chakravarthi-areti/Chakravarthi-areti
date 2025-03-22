@@ -30,35 +30,40 @@
 ---
 
 ## 🚀 Projects
-Here are some of my key projects with clickable links for detailed insights:
-
-### 📋 **Car Insurance Analytics Using Power BI**
-- Developed a dashboard to analyze customer demographics, claim patterns, and risk assessments.
-- Utilized **Power BI**, **DAX**, and data modeling to uncover insights that improved underwriting efficiency.  
+### 🔹 **MySQL Projects**
 <p align="center">
-  <img src="https://your-image-link.com/car-insurance.png" alt="Car Insurance Analytics" width="300">
+  <a href="https://github.com/Chakravarthi-areti/Pizza-Sales-Analysis">
+    <img src="https://img.shields.io/badge/Pizza%20Sales%20Analysis-%230077B5.svg?style=for-the-badge&logo=github" alt="Pizza Sales Analysis">
+  </a>
+  <a href="https://github.com/Chakravarthi-areti/Music-Store-Analysis">
+    <img src="https://img.shields.io/badge/Music%20Store%20Analysis-%230077B5.svg?style=for-the-badge&logo=github" alt="Music Store Analysis">
+  </a>
+</p>
+
+---
+
+### 🟠 **Power BI Projects**
+<p align="center">
   <a href="https://github.com/Chakravarthi-areti/Car-Insurance-Analytics">
-    <img src="https://img.shields.io/badge/Visit%20Project-%230077B5.svg?style=for-the-badge&logo=github" alt="Car Insurance Project">
+    <img src="https://img.shields.io/badge/Car%20Insurance%20Analytics-%230077B5.svg?style=for-the-badge&logo=github" alt="Car Insurance Analytics">
   </a>
-</p>
-
-### 🏥 **Hospital Patient Analysis Using Power BI**
-- Created an interactive dashboard to monitor patient demographics, treatments, and outcomes.
-- Improved data-driven decisions in resource allocation for improved hospital efficiency.  
-<p align="center">
-  <img src="https://your-image-link.com/hospital-analysis.png" alt="Hospital Patient Analysis" width="300">
   <a href="https://github.com/Chakravarthi-areti/Hospital-Patient-Analysis">
-    <img src="https://img.shields.io/badge/Visit%20Project-%230077B5.svg?style=for-the-badge&logo=github" alt="Hospital Patient Analysis">
+    <img src="https://img.shields.io/badge/Hospital%20Patient%20Analysis-%230077B5.svg?style=for-the-badge&logo=github" alt="Hospital Patient Analysis">
+  </a>
+  <a href="https://github.com/Chakravarthi-areti/Ecommerce-Sales-Analysis">
+    <img src="https://img.shields.io/badge/Ecommerce%20Sales%20Analysis-%230077B5.svg?style=for-the-badge&logo=github" alt="Ecommerce Sales Analysis">
+  </a>
+  <a href="https://github.com/Chakravarthi-areti/Credit-Card-Analytics">
+    <img src="https://img.shields.io/badge/Credit%20Card%20Analytics-%230077B5.svg?style=for-the-badge&logo=github" alt="Credit Card Analytics">
   </a>
 </p>
 
-### 🛒 **Ecommerce Sales Analysis**
-- Conducted a detailed sales analysis using Power BI to identify revenue trends and customer insights.
-- Implemented advanced DAX measures for accurate sales forecasts.  
+---
+
+### 🟢 **Advanced Excel Projects**
 <p align="center">
-  <img src="https://your-image-link.com/ecommerce-analysis.png" alt="Ecommerce Sales Analysis" width="300">
-  <a href="https://github.com/Chakravarthi-areti/Ecommerce-Sales-Analysis">
-    <img src="https://img.shields.io/badge/Visit%20Project-%230077B5.svg?style=for-the-badge&logo=github" alt="Ecommerce Sales Analysis">
+  <a href="https://github.com/Chakravarthi-areti/Coffee-Shop-Sales-Analysis">
+    <img src="https://img.shields.io/badge/Coffee%20Shop%20Sales%20Analysis-%230077B5.svg?style=for-the-badge&logo=github" alt="Coffee Shop Sales Analysis">
   </a>
 </p>
 
