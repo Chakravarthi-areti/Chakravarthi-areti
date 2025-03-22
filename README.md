@@ -16,6 +16,8 @@ I specialize in transforming complex data into actionable insights through data 
 🔵 **Excel Mastery:** Utilizing advanced formulas, pivot tables, and charts for analysis  
 🟣 **Python Programming:** Using NumPy, Pandas, and other libraries for data manipulation  
 
+---
+
 
 ### 💼 **Internship Experience**
 
