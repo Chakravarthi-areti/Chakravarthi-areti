@@ -44,6 +44,7 @@ I specialize in transforming complex data into actionable insights through data 
       <img src="https://github.com/Chakravarthi-areti/Chakravarthi-areti/blob/main/MerchandiseSalesimg.png?raw=true" alt="Merchandise Sales Analysis" width="300">
       <br>
       <b>Merchandise Sales Analysis</b>  
+       <br></br>
       <i>Analyzed sales data to identify top-selling genres, improving marketing strategy.</i>  
       <br>
       <a href="https://github.com/Chakravarthi-areti/Music-Store-Analysis">
