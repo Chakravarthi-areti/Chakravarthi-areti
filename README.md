@@ -33,7 +33,7 @@ I specialize in transforming complex data into actionable insights through data 
       <br></br>
       <i>Analyzed Beverage Sales in the American States to draw the insights from data</i>  
       <br>
-      <a href="https://github.com/Chakravarthi-areti/Pizza-Sales-Analysis">
+       <a href="https://github.com/Chakravarthi-areti/Pizza-Sales-Analysis">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub">
       </a>
       <a href="https://medium.com/@chakravarthiareti09/beverage-sales-analysis-using-mysql-and-excel-63bb429f2ac3">
@@ -112,15 +112,15 @@ I specialize in transforming complex data into actionable insights through data 
 <table>
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200?text=Coffee+Shop+Sales+Analysis" alt="Coffee Shop Sales Analysis" width="300">
+      <img src="https://github.com/Chakravarthi-areti/Chakravarthi-areti/blob/main/Altiq_Mart_Promotion_img.png?raw=true" width="300">
       <br>
-      <b>Coffee Shop Sales Analysis</b>  
-      <i>Analyzed sales data to identify peak hours, popular products, and customer trends.</i>  
+      <b>ALTIQ MART Promotion Analysis</b>  
+      <i>Analyzed sales data to identify Top Stores, popular products, and customer trends.</i>  
       <br>
       <a href="https://github.com/Chakravarthi-areti/Coffee-Shop-Sales-Analysis">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub">
       </a>
-      <a href="https://your-target-website.com/coffee-shop-sales-analysis">
+      <a href="https://medium.com/@chakravarthiareti09/altiq-mart-promotion-analysis-36f47163c1a9">
         <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=web" alt="Project Details">
       </a>
     </td>
