@@ -49,7 +49,7 @@ I am a passionate **Data Analyst** dedicated to transforming raw data into meani
   <td width="50%">
     <h3 align="center">🛒 Ecommerce Sales Analysis</h3>
     <p align="center">
-      <img src="https://via.placeholder.com/300" alt="Ecommerce Sales Analysis" width="100%"/>
+      <img src="https://github.com/Chakravarthi-areti/Chakravarthi-areti/blob/main/A%20data%20analyst%20dressed%20in%20a%20black%20suit%20giving%20suggestions%20to%20the%20old%20owner%20of%20Altiq%20Mart.png?raw=true" alt="Ecommerce Sales Analysis" width="100%"/>
     </p>
     <p align="center">Uncovered trends in customer behavior, purchase patterns, and revenue growth.</p>
   </td>
@@ -67,7 +67,7 @@ I am a passionate **Data Analyst** dedicated to transforming raw data into meani
 
 ## 🛠️ Skills & Tools  
 <p align="center">
-  <img src="https://github.com/Chakravarthi-areti/Chakravarthi-areti/blob/main/A%20data%20analyst%20dressed%20in%20a%20black%20suit%20giving%20suggestions%20to%20the%20old%20owner%20of%20Altiq%20Mart.png?raw=true" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" />
