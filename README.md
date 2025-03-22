@@ -1,9 +1,10 @@
 # Greetings Every One , I am  Chakravarthi Areti  
-### Aspiring Data Analyst | Power BI | MySQL | Python | Excel | Statistics
+
 ---
 
 # 🚀 About Me  
-💡 **Aspiring Data Analyst** | 📊 **Power BI Enthusiast** | 📈 **Driven by Insights**  
+### Aspiring Data Analyst | Power BI | MySQL | Python | Excel | Statistics
+
 Data Analyst skilled in **MySQL**, **Excel**, **Power BI**, and **Python**, with extensive experience analyzing large datasets and delivering actionable insights to drive business strategy. Proficient in KPI metrics, dashboard reporting, and collaborating with stakeholders to solve business problems and identify actionable steps through data solutions and strategic insights.
 
 ---
