@@ -34,14 +34,23 @@ I am a passionate **Data Analyst** dedicated to transforming raw data into meani
     <p align="center">
       <img src="https://via.placeholder.com/300" alt="Car Insurance Analytics" width="100%"/>
     </p>
-    <p align="center">Analyzed car insurance data to track claims, policies, and customer demographics.</p>
+    <p align="center">
+      <a href="https://github.com/Chakravarthi-areti/car-insurance-analytics">
+        <img src="https://img.shields.io/badge/🔗View%20Project-Click%20Here-blue?style=for-the-badge" />
+      </a>
+    </p>
   </td>
+
   <td width="50%">
     <h3 align="center">🏥 Hospital Patient Analysis</h3>
     <p align="center">
       <img src="https://via.placeholder.com/300" alt="Hospital Patient Analysis" width="100%"/>
     </p>
-    <p align="center">Developed detailed reports showcasing patient trends and hospital performance.</p>
+    <p align="center">
+      <a href="https://github.com/Chakravarthi-areti/hospital-patient-analysis">
+        <img src="https://img.shields.io/badge/🔗View%20Project-Click%20Here-blue?style=for-the-badge" />
+      </a>
+    </p>
   </td>
 </tr>
 
@@ -49,16 +58,25 @@ I am a passionate **Data Analyst** dedicated to transforming raw data into meani
   <td width="50%">
     <h3 align="center">🛒 Ecommerce Sales Analysis</h3>
     <p align="center">
-      <img src="https://github.com/Chakravarthi-areti/Chakravarthi-areti/blob/main/A%20data%20analyst%20dressed%20in%20a%20black%20suit%20giving%20suggestions%20to%20the%20old%20owner%20of%20Altiq%20Mart.png?raw=true" alt="Ecommerce Sales Analysis" width="100%"/>
+      <img src="https://via.placeholder.com/300" alt="Ecommerce Sales Analysis" width="100%"/>
     </p>
-    <p align="center">Uncovered trends in customer behavior, purchase patterns, and revenue growth.</p>
+    <p align="center">
+      <a href="https://github.com/Chakravarthi-areti/ecommerce-sales-analysis">
+        <img src="https://img.shields.io/badge/🔗View%20Project-Click%20Here-blue?style=for-the-badge" />
+      </a>
+    </p>
   </td>
+
   <td width="50%">
     <h3 align="center">🍕 Pizza Sales Analysis</h3>
     <p align="center">
       <img src="https://via.placeholder.com/300" alt="Pizza Sales Analysis" width="100%"/>
     </p>
-    <p align="center">Performed SQL queries to track pizza sales, top-performing products, and customer preferences.</p>
+    <p align="center">
+      <a href="https://github.com/Chakravarthi-areti/pizza-sales-analysis">
+        <img src="https://img.shields.io/badge/🔗View%20Project-Click%20Here-blue?style=for-the-badge" />
+      </a>
+    </p>
   </td>
 </tr>
 </table>
@@ -86,4 +104,3 @@ I am a passionate **Data Analyst** dedicated to transforming raw data into meani
 </p>
 
 ---
-
