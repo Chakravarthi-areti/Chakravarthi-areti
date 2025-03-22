@@ -27,13 +27,16 @@ I specialize in transforming complex data into actionable insights through data 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/Chakravarthi-areti/Chakravarthi-areti/blob/main/Screenshot%202025-03-22%20194136.png?raw=true" alt="Beverage Sales Analysis" width="300">
+      <img src="https://via.placeholder.com/300x200?text=Pizza+Sales+Analysis" alt="Pizza Sales Analysis" width="300">
       <br>
-      <b>Beverage Sales Analysis Using MYSQL & Excel</b>  
+      <b>Pizza Sales Analysis</b>  
       <i>Forecasted demand trends by analyzing 20,000 pizza orders, improving inventory planning.</i>  
       <br>
       <a href="https://github.com/Chakravarthi-areti/Pizza-Sales-Analysis">
-        <img src="https://medium.com/@chakravarthiareti09/beverage-sales-analysis-using-mysql-and-excel-63bb429f2ac3" alt="View Project">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub">
+      </a>
+      <a href="https://your-target-website.com/pizza-sales-analysis">
+        <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=web" alt="Project Details">
       </a>
     </td>
     <td align="center">
@@ -43,7 +46,10 @@ I specialize in transforming complex data into actionable insights through data 
       <i>Analyzed sales data to identify top-selling genres, improving marketing strategy.</i>  
       <br>
       <a href="https://github.com/Chakravarthi-areti/Music-Store-Analysis">
-        <img src="https://img.shields.io/badge/View%20Project-0078D7?style=for-the-badge&logo=github" alt="View Project">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub">
+      </a>
+      <a href="https://your-target-website.com/music-store-analysis">
+        <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=web" alt="Project Details">
       </a>
     </td>
   </tr>
@@ -61,7 +67,10 @@ I specialize in transforming complex data into actionable insights through data 
       <i>Built a dashboard analyzing 30,000 claims, improving claim processing insights.</i>  
       <br>
       <a href="https://github.com/Chakravarthi-areti/Car-Insurance-Analytics">
-        <img src="https://img.shields.io/badge/View%20Project-0078D7?style=for-the-badge&logo=github" alt="View Project">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub">
+      </a>
+      <a href="https://your-target-website.com/car-insurance-analytics">
+        <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=web" alt="Project Details">
       </a>
     </td>
     <td align="center">
@@ -71,29 +80,10 @@ I specialize in transforming complex data into actionable insights through data 
       <i>Created visual insights for patient trends to enhance hospital resource planning.</i>  
       <br>
       <a href="https://github.com/Chakravarthi-areti/Hospital-Patient-Analysis">
-        <img src="https://img.shields.io/badge/View%20Project-0078D7?style=for-the-badge&logo=github" alt="View Project">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub">
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/300x200?text=Ecommerce+Sales+Analysis" alt="Ecommerce Sales Analysis" width="300">
-      <br>
-      <b>Ecommerce Sales Analysis</b>  
-      <i>Developed a dashboard revealing key sales drivers and customer purchasing patterns.</i>  
-      <br>
-      <a href="https://github.com/Chakravarthi-areti/Ecommerce-Sales-Analysis">
-        <img src="https://img.shields.io/badge/View%20Project-0078D7?style=for-the-badge&logo=github" alt="View Project">
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/300x200?text=Credit+Card+Analytics" alt="Credit Card Analytics" width="300">
-      <br>
-      <b>Credit Card Analytics</b>  
-      <i>Uncovered spending trends and customer behavior through transaction data analysis.</i>  
-      <br>
-      <a href="https://github.com/Chakravarthi-areti/Credit-Card-Analytics">
-        <img src="https://img.shields.io/badge/View%20Project-0078D7?style=for-the-badge&logo=github" alt="View Project">
+      <a href="https://your-target-website.com/hospital-patient-analysis">
+        <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=web" alt="Project Details">
       </a>
     </td>
   </tr>
@@ -111,7 +101,10 @@ I specialize in transforming complex data into actionable insights through data 
       <i>Analyzed sales data to identify peak hours, popular products, and customer trends.</i>  
       <br>
       <a href="https://github.com/Chakravarthi-areti/Coffee-Shop-Sales-Analysis">
-        <img src="https://img.shields.io/badge/View%20Project-0078D7?style=for-the-badge&logo=github" alt="View Project">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub">
+      </a>
+      <a href="https://your-target-website.com/coffee-shop-sales-analysis">
+        <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=web" alt="Project Details">
       </a>
     </td>
   </tr>
