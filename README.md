@@ -2,39 +2,39 @@
 ### Aspiring Data Analyst | Power BI | MySQL | Python | Excel | Statistics
 ---
 
-
-# 👨‍💻 About Me
-I'm **Chakravarthi Areti**, an aspiring **Data Analyst** with a strong background in **Power BI**, **MySQL**, **Python**, and **Excel**.  
-I specialize in transforming raw data into actionable insights through storytelling, visualization, and problem-solving.  
-With a focus on data-driven decisions, I strive to help businesses improve performance and profitability.
+# 🚀 About Me  
+💡 **Aspiring Data Analyst** | 📊 **Power BI Enthusiast** | 📈 **Driven by Insights**  
+I specialize in transforming complex data into meaningful insights to drive business decisions. With hands-on experience in **Power BI**, **MySQL**, and **Python**, I bring data stories to life.
 
 ---
 
-# 🚀 Skills
-- 🔍 **Data Analysis:** Identifying trends, patterns, and insights for strategic decisions  
-- 📊 **Power BI & Visualizations:** Crafting interactive dashboards for data storytelling  
-- 🗄️ **MySQL & Data Queries:** Writing optimized queries for efficient data extraction  
-- 📈 **Excel Mastery:** Leveraging advanced formulas, pivot tables, and data validation  
-- 🐍 **Python Programming:** Using NumPy, Pandas, and other libraries for data manipulation  
+# 🛠️ Skills  
+- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) **Python** (NumPy, Pandas)  
+- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power%20bi&logoColor=black) **Power BI** (Data Visualization & DAX)  
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) **MySQL** (Data Queries & Analysis)  
+- ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white) **Advanced Excel** (Pivot Tables, VLOOKUP, Power Query)  
+- 📋 **Data Analysis** (Statistical Analysis, Data Cleaning)  
 
 ---
 
-# 💼 Internship Experience
+# 💼 Internship Experience  
 ## 🔹 KultureHire – **Data Analyst Intern**  
 📅 **Aug 2024 – Nov 2024**  
 
-- Designed an **interactive Excel dashboard** to analyze data from **64,968 respondents**, uncovering critical insights into **Gen Z's sponsorship needs** and career aspirations.  
-- Developed a **manager aspirations dashboard**, revealing trends in **ethical leadership** and preferences for balanced work hours.  
-- Delivered data-driven insights highlighting:  
-  - 📊 **21,656 respondents** favoring remote work  
-  - 🏢 Clear preferences for **company size**  
-  - 💼 Distinct work environment choices between **office**, **remote**, and **hybrid** setups  
+- 📊 Designed an **interactive Excel dashboard** analyzing data from **64,968 respondents** to reveal Gen Z's sponsorship needs.  
+- 📈 Developed a **manager aspirations dashboard**, uncovering trends in **ethical leadership** and balanced work hours.  
+- 🔎 Delivered insights on work preferences, revealing:  
+   - 🏡 **21,656 respondents** favoring remote work  
+   - 🏢 Clear preferences for **company size**  
+   - 💼 Distinct preferences for **office**, **remote**, and **hybrid** setups  
 
 ---
 
-# 📜 Certifications
-- [**Data Science Certification – OdinSchool**](https://www.odinschool.com/)  
-- [**Excel Certification – Udemy**](https://www.udemy.com/)  
+# 📜 Certifications  
+- 🎯 [**Data Science Certification – OdinSchool**](https://www.odinschool.com/)  
+- 📈 [**Excel Certification – Udemy**](https://www.udemy.com/)  
+
+---
 
   
 
