@@ -1,49 +1,43 @@
-Here's your improved LinkedIn profile content with enhanced icons for better visual appeal:  
+# 👨‍💻 About Me
+I'm **Chakravarthi Areti**, an aspiring **Data Analyst** with a strong background in **Power BI**, **MySQL**, **Python**, and **Excel**.  
+I specialize in transforming raw data into actionable insights through storytelling, visualization, and problem-solving.  
+With a focus on data-driven decisions, I strive to help businesses improve performance and profitability.
 
 ---
 
-# 👋 **Greetings EveryOne, I am  Chakravarthi Areti**  
-### 📊 **Aspiring Data Analyst | Power BI | MySQL | Python | Excel | Statistics**  
-
-Data Analyst skilled in MySQL, Excel, Power BI, and Python, with extensive experience analyzing large datasets and delivering actionable insights to drive business strategy. Proficient in KPI metrics, dashboard reporting, and collaborating with stakeholders to solve business problems and identify actionable steps through data solutions and strategic insights.  
-
----
-
-## 🧰 **Skills That Drive Impact**  
-🟠 **Data Analysis:** Uncovering trends, patterns, and actionable insights  
-🟡 **Power BI & Visualizations:** Building interactive dashboards for enhanced decision-making  
-🟢 **MySQL & Data Queries:** Writing optimized queries to extract meaningful insights  
-🔵 **Excel Mastery:** Utilizing advanced formulas, pivot tables, and charts for analysis  
-🟣 **Python Programming:** Using NumPy, Pandas, and other libraries for data manipulation  
+# 🚀 Skills
+- 🔍 **Data Analysis:** Identifying trends, patterns, and insights for strategic decisions  
+- 📊 **Power BI & Visualizations:** Crafting interactive dashboards for data storytelling  
+- 🗄️ **MySQL & Data Queries:** Writing optimized queries for efficient data extraction  
+- 📈 **Excel Mastery:** Leveraging advanced formulas, pivot tables, and data validation  
+- 🐍 **Python Programming:** Using NumPy, Pandas, and other libraries for data manipulation  
 
 ---
 
+# 💼 Internship Experience
+## 🔹 KultureHire – **Data Analyst Intern**  
+📅 **Aug 2024 – Nov 2024**  
 
-### 💼 **Internship Experience**
-
-#### **KultureHire – Data Analyst Intern**  
-📅 *Aug 2024 – Nov 2024*  
-
-✅ **Interactive Dashboard Creation**  
-- Designed a dynamic **Excel dashboard** to analyze data from **64,968 respondents**, uncovering insights into **Gen Z's sponsorship needs** and **career aspirations**.  
-
-✅ **Manager Aspirations Analysis**  
-- Developed a detailed **Manager Aspirations Dashboard** that revealed:  
-  - 📊 The significance of **ethical leadership**  
-  - 🕒 Preferences for **balanced work hours**  
-
-✅ **Work Preferences Insights**  
-- Delivered actionable insights on workplace preferences:  
-  - 🏢 **21,656 respondents** preferred **remote work**  
-  - 🌍 Others opted for **hybrid models**  
-  - 📈 Highlighted key trends in **company size preferences**  
-
+- Designed an **interactive Excel dashboard** to analyze data from **64,968 respondents**, uncovering critical insights into **Gen Z's sponsorship needs** and career aspirations.  
+- Developed a **manager aspirations dashboard**, revealing trends in **ethical leadership** and preferences for balanced work hours.  
+- Delivered data-driven insights highlighting:  
+  - 📊 **21,656 respondents** favoring remote work  
+  - 🏢 Clear preferences for **company size**  
+  - 💼 Distinct work environment choices between **office**, **remote**, and **hybrid** setups  
 
 ---
 
-## 🏅 **Certifications**  
-🎯 **Data Science Certification** - OdinSchool  
-📈 **Excel Certification** - Udemy  
+# 📜 Certifications
+- [**Data Science Certification – OdinSchool**](https://www.odinschool.com/)  
+- [**Excel Certification – Udemy**](https://www.udemy.com/)  
+
+---
+
+# 📫 Let's Connect
+📧 **Email:** [chakravarthiareti09@gmail.com](mailto:chakravarthiareti09@gmail.com)  
+🔗 **LinkedIn:** [**Chakravarthi Areti**](https://www.linkedin.com/in/chakravarthiareti)  
+💻 **GitHub:** [**Chakravarthi-Areti**](https://github.com/Chakravarthi-areti)  
+
 
 ---
 
