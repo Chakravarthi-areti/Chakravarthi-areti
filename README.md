@@ -16,6 +16,27 @@ I specialize in transforming complex data into actionable insights through data 
 🔵 **Excel Mastery:** Utilizing advanced formulas, pivot tables, and charts for analysis  
 🟣 **Python Programming:** Using NumPy, Pandas, and other libraries for data manipulation  
 
+
+### 💼 **Internship Experience**
+
+#### **KultureHire – Data Analyst Intern**  
+📅 *Aug 2024 – Nov 2024*  
+
+✅ **Interactive Dashboard Creation**  
+- Designed a dynamic **Excel dashboard** to analyze data from **64,968 respondents**, uncovering insights into **Gen Z's sponsorship needs** and **career aspirations**.  
+
+✅ **Manager Aspirations Analysis**  
+- Developed a detailed **Manager Aspirations Dashboard** that revealed:  
+  - 📊 The significance of **ethical leadership**  
+  - 🕒 Preferences for **balanced work hours**  
+
+✅ **Work Preferences Insights**  
+- Delivered actionable insights on workplace preferences:  
+  - 🏢 **21,656 respondents** preferred **remote work**  
+  - 🌍 Others opted for **hybrid models**  
+  - 📈 Highlighted key trends in **company size preferences**  
+
+
 ---
 
 ## 🏅 **Certifications**  
