@@ -196,6 +196,12 @@ Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
         <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=web" alt="Project Details">
       </a>
 </div>
+
+<div>
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7308691801769422849/">
+        <img src="https://img.shields.io/badge/Video-Presentation-red?logo=youtube" alt="Presentation">
+      </a>
+</div>
     </td>
   </tr>
 </table>
