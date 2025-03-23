@@ -96,6 +96,9 @@ Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
       <a href="https://medium.com/@chakravarthiareti09/merchandise-sales-analysis-using-mysql-a87986faebb9">
         <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=we" alt="Project Details">
       </a>
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7302173540353552384/">
+        <img src="https://img.shields.io/badge/Video-Presentation-red?logo=youtube" alt="Presentation">
+      </a>
     </td>
 
 <td align="center">
@@ -110,6 +113,10 @@ Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
       </a>
       <a href="https://medium.com/@chakravarthiareti09/restaurant-order-analytics-b6b72fd815fc">
         <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=we" alt="Project Details">
+      </a>
+ </a>
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7300382982920359937/">
+        <img src="https://img.shields.io/badge/Video-Presentation-red?logo=youtube" alt="Presentation">
       </a>
     </td>
   </tr>
