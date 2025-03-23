@@ -9,7 +9,7 @@ Data Analyst skilled in **MySQL**, **Excel**, **Power BI**, and **Python**, with
 
 ---
 
-###**🛠️ Skills**
+#    **🛠️ Skills**
 
 Python (NumPy, Pandas, Matplotlib, Seaborn)
 
