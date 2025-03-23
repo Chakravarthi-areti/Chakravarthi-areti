@@ -73,7 +73,7 @@ Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
       <br></br>
       <i>Analyzed Beverage Sales in the American States to draw the insights from data</i>  
       <br>
-       <a href="https://github.com/Chakravarthi-areti/Pizza-Sales-Analysis">
+       <a href="https://github.com/Chakravarthi-areti/Beverage_Sales_Analysis_Using_MYSQL_-_Advanced_Excel">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub">
       </a>
       <a href="https://medium.com/@chakravarthiareti09/beverage-sales-analysis-using-mysql-and-excel-63bb429f2ac3">
