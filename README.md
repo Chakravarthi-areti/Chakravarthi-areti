@@ -9,7 +9,8 @@ Data Analyst skilled in **MySQL**, **Excel**, **Power BI**, and **Python**, with
 
 ---
 
-🛠️ Skills
+###**🛠️ Skills**
+
 Python (NumPy, Pandas, Matplotlib, Seaborn)
 
 Power BI (Data Visualization, DAX, Power Query)
@@ -32,9 +33,6 @@ Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
 
 📄 Reporting & Documentation
 
-📡 APIs & Web Scraping (Using Python’s requests & BeautifulSoup)
-
-🔐 Data Governance & Security  
 
 ---
 
