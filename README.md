@@ -79,6 +79,9 @@ Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
       <a href="https://medium.com/@chakravarthiareti09/beverage-sales-analysis-using-mysql-and-excel-63bb429f2ac3">
         <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=we" alt="Project Details">
       </a>
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7307604739771224067/?source=post_page-----63bb429f2ac3---------------------------------------">
+        <img src="https://img.shields.io/badge/Video-Presentation-red?logo=youtube" alt="Presentation">
+      </a>
     </td>
     <td align="center">
       <img src="https://github.com/Chakravarthi-areti/Chakravarthi-areti/blob/main/MerchandiseSalesimg.png?raw=true" alt="Merchandise Sales Analysis" width="300">
