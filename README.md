@@ -96,7 +96,6 @@ Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
       <a href="https://medium.com/@chakravarthiareti09/merchandise-sales-analysis-using-mysql-a87986faebb9">
         <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=we" alt="Project Details">
       </a>
-      <br></br>
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7302173540353552384/">
         <img src="https://img.shields.io/badge/Video-Presentation-red?logo=youtube" alt="Presentation">
       </a>
