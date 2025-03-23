@@ -90,15 +90,24 @@ Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
        <br></br>
       <i>Analyzed sales data to identify top-selling genres, improving marketing strategy.</i>  
       <br>
+
+<div>
       <a href="https://github.com/Chakravarthi-areti/Merchandise_Sales_Analysis_Using_MYSQL">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub">
       </a>
+</div>
+
+<div>
       <a href="https://medium.com/@chakravarthiareti09/merchandise-sales-analysis-using-mysql-a87986faebb9">
         <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=we" alt="Project Details">
       </a>
+</div>
+
+<div>
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7302173540353552384/">
         <img src="https://img.shields.io/badge/Video-Presentation-red?logo=youtube" alt="Presentation">
       </a>
+</div>
     </td>
 
 <td align="center">
