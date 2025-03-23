@@ -93,6 +93,7 @@ Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
       <a href="https://github.com/Chakravarthi-areti/Merchandise_Sales_Analysis_Using_MYSQL">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub">
       </a>
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github)](https://github.com/Chakravarthi-areti/Merchandise_Sales_Analysis_Using_MYSQL)  
       <a href="https://medium.com/@chakravarthiareti09/merchandise-sales-analysis-using-mysql-a87986faebb9">
         <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=we" alt="Project Details">
       </a>
