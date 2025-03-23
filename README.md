@@ -9,12 +9,32 @@ Data Analyst skilled in **MySQL**, **Excel**, **Power BI**, and **Python**, with
 
 ---
 
-# 🛠️ Skills  
-- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) **Python** (NumPy, Pandas)  
-- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power%20bi&logoColor=black) **Power BI** (Data Visualization & DAX)  
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) **MySQL** (Data Queries & Analysis)  
-- ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white) **Advanced Excel** (Pivot Tables, VLOOKUP, Power Query)  
-- 📋 **Data Analysis** (Statistical Analysis, Data Cleaning)  
+🛠️ Skills
+Python (NumPy, Pandas, Matplotlib, Seaborn)
+
+Power BI (Data Visualization, DAX, Power Query)
+
+MySQL (Data Queries, Joins, CTEs, Window Functions)
+
+Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
+
+📋 Data Analysis (Statistical Analysis, Data Cleaning, Data Wrangling)
+
+📊 Data Visualization (Dashboards, Interactive Reports, Storytelling with Data)
+
+🧮 Mathematics & Statistics (Hypothesis Testing, Regression Analysis)
+
+📈 Business Analytics (KPI Analysis, Trend Analysis)
+
+📂 ETL (Extract, Transform, Load) (Data Transformation, Data Integration)
+
+🔍 Exploratory Data Analysis (EDA)
+
+📄 Reporting & Documentation
+
+📡 APIs & Web Scraping (Using Python’s requests & BeautifulSoup)
+
+🔐 Data Governance & Security  
 
 ---
 
