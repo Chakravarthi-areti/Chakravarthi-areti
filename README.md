@@ -186,7 +186,7 @@ Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
       <i>Analyzed sales data to identify Top Stores, popular products, and customer trends.</i>  
       <br>
 <div>
-      <a href="https://github.com/Chakravarthi-areti/Coffee-Shop-Sales-Analysis">
+      <a href="https://github.com/Chakravarthi-areti/ALTIQ_MART_PROMOTION_ANALYSIS">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub">
       </a>
 </div>
