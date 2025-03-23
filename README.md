@@ -108,7 +108,7 @@ Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
        <br></br>
       <i>Analyzed Restaurant data to identify top-selling zones, improving delivery and making strategy.</i>  
       <br>
-      <a href="https://github.com/Chakravarthi-areti/Music-Store-Analysis">
+      <a href="https://github.com/Chakravarthi-areti/Restaurant-Order-Analytics">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub">
       </a>
       <a href="https://medium.com/@chakravarthiareti09/restaurant-order-analytics-b6b72fd815fc">
