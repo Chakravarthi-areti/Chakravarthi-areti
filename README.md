@@ -34,7 +34,7 @@ Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
 📄 Reporting & Documentation
 
 
----
+----------
 
 # 💼 Internship Experience  
 ## 🔹 KultureHire – **Data Analyst Intern**  
