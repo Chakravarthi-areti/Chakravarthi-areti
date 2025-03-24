@@ -219,7 +219,7 @@ Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
 
 ## 📫 **Let's Connect**  
 📧 **Email:** [chakravarthiareti09@gmail.com](mailto:chakravarthiareti09@gmail.com)  
-🔗 **LinkedIn:** [Chakravarthi Areti](https://www.linkedin.com/in/chakravarthiareti)  
+🔗 **LinkedIn:** [Chakravarthi Areti](https://www.linkedin.com/in/chakravarthi-areti-522390227/)  
 💻 **GitHub:** [Chakravarthi-Areti](https://github.com/Chakravarthi-areti)  
 
 ---
