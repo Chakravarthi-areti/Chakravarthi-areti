@@ -140,38 +140,82 @@ Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
 
 ---
 
-### 🟠 **Power BI Projects**  
+### 🟠  **POWER BI  Projects**  
 <table>
   <tr>
     <td align="center">
-      <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*oRgKurendzKUypYhZub2Og.png" alt="Car Insurance Analytics" width="300">
+      <img src="https://github.com/Chakravarthi-areti/Chakravarthi-areti/blob/main/Screenshot%202025-03-22%20194136.png?raw=true" alt="Beverage Sales Analysis" width="300">
       <br>
-      <b>Electric Vehicle Sales Analysis</b>
+      <b>Beverage Sales Analysis</b>  
+      <br></br>
+      <i>Analyzed Beverage Sales in the American States to draw the insights from data</i>  
       <br>
-      <i>Analyzed the Electric vehicles by State and by makers.</i>  
-      <br>
-      <a href="https://github.com/Chakravarthi-areti/Car-Insurance-Analytics">
-<!--         <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub"> -->
+       <a href="https://github.com/Chakravarthi-areti/Beverage_Sales_Analysis_Using_MYSQL_-_Advanced_Excel">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub">
       </a>
-      <a href="https://your-target-website.com/car-insurance-analytics">
-        <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=web" alt="Project Details">
+      <a href="https://medium.com/@chakravarthiareti09/beverage-sales-analysis-using-mysql-and-excel-63bb429f2ac3">
+        <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=we" alt="Project Details">
+      </a>
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7307604739771224067/?source=post_page-----63bb429f2ac3---------------------------------------">
+        <img src="https://img.shields.io/badge/Video-Presentation-red?logo=youtube" alt="Presentation">
       </a>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200?text=Hospital+Patient+Analysis" alt="Hospital Patient Analysis" width="300">
+      <img src="https://github.com/Chakravarthi-areti/Chakravarthi-areti/blob/main/MerchandiseSalesimg.png?raw=true" alt="Merchandise Sales Analysis" width="300">
       <br>
-      <b>Hospital Patient Analysis</b>  
-      <i>Created visual insights for patient trends to enhance hospital resource planning.</i>  
+      <b>Merchandise Sales Analysis</b>  
+       <br></br>
+      <i>Analyzed sales data to identify top-selling genres, improving marketing strategy.</i>  
       <br>
-      <a href="https://github.com/Chakravarthi-areti/Hospital-Patient-Analysis">
+
+<div>
+      <a href="https://github.com/Chakravarthi-areti/Merchandise_Sales_Analysis_Using_MYSQL">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub">
       </a>
-      <a href="https://your-target-website.com/hospital-patient-analysis">
-        <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=web" alt="Project Details">
+</div>
+
+<div>
+      <a href="https://medium.com/@chakravarthiareti09/merchandise-sales-analysis-using-mysql-a87986faebb9">
+        <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=we" alt="Project Details">
       </a>
+</div>
+
+<div>
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7302173540353552384/">
+        <img src="https://img.shields.io/badge/Video-Presentation-red?logo=youtube" alt="Presentation">
+      </a>
+</div>
+    </td>
+
+<td align="center">
+      <img src="https://github.com/Chakravarthi-areti/Chakravarthi-areti/blob/main/Restaurant_order_Analysis_img.png?raw=true" alt="Merchandise Sales Analysis" width="300">
+      <br>
+      <b>Restaurant Order Analysis</b>  
+       <br></br>
+      <i>Analyzed Restaurant data to identify top-selling zones, improving delivery and making strategy.</i>  
+      <br>
+<div>
+      <a href="https://github.com/Chakravarthi-areti/Restaurant-Order-Analytics">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub">
+      </a>
+</div>
+
+<div>
+      <a href="https://medium.com/@chakravarthiareti09/restaurant-order-analytics-b6b72fd815fc">
+        <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=we" alt="Project Details">
+      </a>
+</div>
+
+<div>
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7300382982920359937/">
+        <img src="https://img.shields.io/badge/Video-Presentation-red?logo=youtube" alt="Presentation">
+      </a>
+</div>
     </td>
   </tr>
 </table>  
+
+
 
 
 
