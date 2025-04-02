@@ -144,9 +144,9 @@ Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/Chakravarthi-areti/Chakravarthi-areti/blob/main/MerchandiseSalesimg.png?raw=true" alt="Merchandise Sales Analysis" width="300">
+      <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*oRgKurendzKUypYhZub2Og.png" alt="Merchandise Sales Analysis" width="300">
       <br>
-      <b>Merchandise Sales Analysis</b>  
+      <b>Electric Vehicle Sales Analysis</b>  
        <br></br>
       <i>Analyzed sales data to identify top-selling genres, improving marketing strategy.</i>  
       <br>
