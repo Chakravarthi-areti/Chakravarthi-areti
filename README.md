@@ -146,11 +146,12 @@ Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
     <td align="center">
       <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*oRgKurendzKUypYhZub2Og.png" alt="Car Insurance Analytics" width="300">
       <br>
-      <b>Electric Vehicle Sales Analysis</b>  
+      <b>Electric Vehicle Sales Analysis</b>
+      <br>
       <i>Analyzed the Electric vehicles by State and by makers.</i>  
       <br>
       <a href="https://github.com/Chakravarthi-areti/Car-Insurance-Analytics">
-        <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub">
+<!--         <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub"> -->
       </a>
       <a href="https://your-target-website.com/car-insurance-analytics">
         <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=web" alt="Project Details">
