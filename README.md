@@ -144,9 +144,9 @@ Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/Chakravarthi-areti/Chakravarthi-areti/blob/main/Screenshot%202025-03-22%20194136.png?raw=true" alt="Beverage Sales Analysis" width="300">
+      <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*oRgKurendzKUypYhZub2Og.png" alt="Beverage Sales Analysis" width="300">
       <br>
-      <b>Beverage Sales Analysis</b>  
+      <b>Electric Vehicle Sales Analysis</b>  
       <br></br>
       <i>Analyzed Beverage Sales in the American States to draw the insights from data</i>  
       <br>
