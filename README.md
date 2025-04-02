@@ -171,6 +171,35 @@ Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
     </td>
 
 
+<td align="center">
+      <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*oRgKurendzKUypYhZub2Og.png" alt="Merchandise Sales Analysis" width="300">
+      <br>
+      <b>Strategic OTT Merging Analysis</b>  
+       <br></br>
+      <i>Analyzed OTT platforms to find out the strategic pricing and content analysis for the beat user engagement.</i>  
+      <br>
+
+<div>
+<!--     <a href="https://github.com/Chakravarthi-areti/Merchandise_Sales_Analysis_Using_MYSQL"> -->
+<!--         <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub"> -->
+<!--       </a> -->
+</div>
+
+<div>
+      <a href="https://medium.com/@chakravarthiareti09/strategic-ott-merging-of-lio-and-jotstar-0dc75314dd15">
+        <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=we" alt="Project Details">
+      </a>
+</div>
+
+<div>
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7312680799428911104/">
+        <img src="https://img.shields.io/badge/Video-Presentation-red?logo=youtube" alt="Presentation">
+      </a>
+</div>
+    </td>
+
+
+
   </tr>
 </table>  
 
