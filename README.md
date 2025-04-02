@@ -144,23 +144,6 @@ Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
 <table>
   <tr>
     <td align="center">
-      <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*oRgKurendzKUypYhZub2Og.png" alt="Beverage Sales Analysis" width="300">
-      <br>
-      <b>Electric Vehicle Sales Analysis</b>  
-      <br></br>
-      <i>Analyzed Electric Vehicle Sales by State and by Makers to find out the states which having positive penetration rate</i>  
-      <br>
-<!--        <a href="https://github.com/Chakravarthi-areti/Beverage_Sales_Analysis_Using_MYSQL_-_Advanced_Excel"> -->
-<!--         <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub"> -->
-      </a>
-      <a href="https://medium.com/@chakravarthiareti09/beverage-sales-analysis-using-mysql-and-excel-63bb429f2ac3">
-        <img src="https://medium.com/@chakravarthiareti09/electric-vehicle-sales-analysis-3d5bd90695d8" alt="Project Details">
-      </a>
-      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7310141435889033216/">
-        <img src="https://img.shields.io/badge/Video-Presentation-red?logo=youtube" alt="Presentation">
-      </a>
-    </td>
-    <td align="center">
       <img src="https://github.com/Chakravarthi-areti/Chakravarthi-areti/blob/main/MerchandiseSalesimg.png?raw=true" alt="Merchandise Sales Analysis" width="300">
       <br>
       <b>Merchandise Sales Analysis</b>  
