@@ -172,7 +172,7 @@ Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
 
 
 <td align="center">
-      <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*oRgKurendzKUypYhZub2Og.png" alt="Merchandise Sales Analysis" width="300">
+      <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*9Y5vJu-JFbHF55bKBnjHLQ.png" alt="Merchandise Sales Analysis" width="300">
       <br>
       <b>Strategic OTT Merging Analysis</b>  
        <br></br>
