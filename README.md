@@ -187,31 +187,7 @@ Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
 </div>
     </td>
 
-<td align="center">
-      <img src="https://github.com/Chakravarthi-areti/Chakravarthi-areti/blob/main/Restaurant_order_Analysis_img.png?raw=true" alt="Merchandise Sales Analysis" width="300">
-      <br>
-      <b>Restaurant Order Analysis</b>  
-       <br></br>
-      <i>Analyzed Restaurant data to identify top-selling zones, improving delivery and making strategy.</i>  
-      <br>
-<div>
-      <a href="https://github.com/Chakravarthi-areti/Restaurant-Order-Analytics">
-        <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub">
-      </a>
-</div>
 
-<div>
-      <a href="https://medium.com/@chakravarthiareti09/restaurant-order-analytics-b6b72fd815fc">
-        <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=we" alt="Project Details">
-      </a>
-</div>
-
-<div>
-      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7300382982920359937/">
-        <img src="https://img.shields.io/badge/Video-Presentation-red?logo=youtube" alt="Presentation">
-      </a>
-</div>
-    </td>
   </tr>
 </table>  
 
