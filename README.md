@@ -148,15 +148,15 @@ Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
       <br>
       <b>Electric Vehicle Sales Analysis</b>  
       <br></br>
-      <i>Analyzed Beverage Sales in the American States to draw the insights from data</i>  
+      <i>Analyzed Electric Vehicle Sales by State and by Makers to find out the states which having positive penetration rate</i>  
       <br>
-       <a href="https://github.com/Chakravarthi-areti/Beverage_Sales_Analysis_Using_MYSQL_-_Advanced_Excel">
-        <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub">
+<!--        <a href="https://github.com/Chakravarthi-areti/Beverage_Sales_Analysis_Using_MYSQL_-_Advanced_Excel"> -->
+<!--         <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub"> -->
       </a>
       <a href="https://medium.com/@chakravarthiareti09/beverage-sales-analysis-using-mysql-and-excel-63bb429f2ac3">
-        <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=we" alt="Project Details">
+        <img src="https://medium.com/@chakravarthiareti09/electric-vehicle-sales-analysis-3d5bd90695d8" alt="Project Details">
       </a>
-      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7307604739771224067/?source=post_page-----63bb429f2ac3---------------------------------------">
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7310141435889033216/">
         <img src="https://img.shields.io/badge/Video-Presentation-red?logo=youtube" alt="Presentation">
       </a>
     </td>
