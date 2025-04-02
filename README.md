@@ -139,15 +139,15 @@ Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
 </table>  
 
 ---
-<!--
+
 ### 🟠 **Power BI Projects**  
 <table>
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200?text=Car+Insurance+Analytics" alt="Car Insurance Analytics" width="300">
+      <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*oRgKurendzKUypYhZub2Og.png" alt="Car Insurance Analytics" width="300">
       <br>
-      <b>Car Insurance Analytics</b>  
-      <i>Built a dashboard analyzing 30,000 claims, improving claim processing insights.</i>  
+      <b>Electric Vehicle Sales Analysis</b>  
+      <i>Analyzed the Electric vehicles by State and by makers.</i>  
       <br>
       <a href="https://github.com/Chakravarthi-areti/Car-Insurance-Analytics">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub">
@@ -172,7 +172,7 @@ Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
   </tr>
 </table>  
 
--->
+
 
 
 ### 🟢 **Advanced Excel Projects**
