@@ -158,13 +158,13 @@ Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
 </div>
 
 <div>
-      <a href="https://medium.com/@chakravarthiareti09/merchandise-sales-analysis-using-mysql-a87986faebb9">
+      <a href="https://medium.com/@chakravarthiareti09/electric-vehicle-sales-analysis-3d5bd90695d8">
         <img src="https://img.shields.io/badge/Project%20Details-0078D7?style=for-the-badge&logo=we" alt="Project Details">
       </a>
 </div>
 
 <div>
-      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7302173540353552384/">
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7310141435889033216/">
         <img src="https://img.shields.io/badge/Video-Presentation-red?logo=youtube" alt="Presentation">
       </a>
 </div>
