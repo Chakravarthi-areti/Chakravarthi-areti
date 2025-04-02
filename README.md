@@ -148,13 +148,13 @@ Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Data Validation)
       <br>
       <b>Electric Vehicle Sales Analysis</b>  
        <br></br>
-      <i>Analyzed sales data to identify top-selling genres, improving marketing strategy.</i>  
+      <i>Analyzed Electric Vehicle Sales to find out the states with good penetration rate and Compounded annual growth.</i>  
       <br>
 
 <div>
-      <a href="https://github.com/Chakravarthi-areti/Merchandise_Sales_Analysis_Using_MYSQL">
-        <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub">
-      </a>
+<!--     <a href="https://github.com/Chakravarthi-areti/Merchandise_Sales_Analysis_Using_MYSQL"> -->
+<!--         <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub"> -->
+<!--       </a> -->
 </div>
 
 <div>
